@@ -1,0 +1,4 @@
+seq,is_set_x,is_set_y,x,y
+1,True,False,0,0.75
+2,True,False,1,10.75
+3,True,False,0,-12.75
